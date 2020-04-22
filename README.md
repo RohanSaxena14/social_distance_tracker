@@ -10,5 +10,5 @@
        
 ## This is the output of the code:
 
-![pedestrian.gif](data/pedestrian.gif)
+![pedestrian.gif](data/pedestrians.gif)
 
