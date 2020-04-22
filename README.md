@@ -8,7 +8,7 @@
    https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
    https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
        
-## This is the output of the code:
+## This is the generated output:
 
 ![pedestrian.gif](data/pedestrians.gif)
 
